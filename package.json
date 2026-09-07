@@ -1,0 +1,33 @@
+{
+  "name": "txt-search",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k \"vite\" \"tsx watch src/backend/server.ts\"",
+    "dev:client": "vite",
+    "dev:server": "tsx watch src/backend/server.ts",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "vite build",
+    "build:server": "tsc -p tsconfig.server.json",
+    "start": "node dist/server/server.js",
+    "test": "tsx --test src/backend/parser.test.ts"
+  },
+  "dependencies": {
+    "@effect/platform": "^0.95.0",
+    "@effect/platform-node": "^0.105.0",
+    "effect": "^3.20.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.2",
+    "concurrently": "^9.2.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.4"
+  }
+}

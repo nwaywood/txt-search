@@ -1,0 +1,100 @@
+[#social_media, #tech, #meta, #usa] www.facebook.com OR www.messenger.com
+[#social_media, #tech, #usa] www.instagram.com
+[#social_media, #tech, #china] www.tiktok.com
+[#search, #usa] www.google.com
+[#tag01, #tag02, #tag03, #tag04, #tag05] https://example.com/links/005
+[#tag02, #tag03, #tag04, #tag05, #tag06, #tag07] https://example.com/links/006
+[#tag03, #tag04, #tag05, #tag06, #tag07, #tag08, #tag09] https://example.com/links/007
+[#tag04, #tag05, #tag06, #tag07, #tag08, #tag09, #tag10, #tag11] https://example.com/links/008
+[#tag05, #tag06, #tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13] https://example.com/links/009 OR https://docs.example.com/links/009
+[#featured, #tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15] https://example.com/links/010
+[#tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17] https://example.com/links/011
+[#tag08, #research, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19] https://example.com/links/012
+[#tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21] https://example.com/links/013
+[#tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21, #tag22, #tag23] https://example.com/links/014
+[#tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21, #tag22, #tag23, #tag24, #tag25] https://example.com/links/015
+[#tag12] https://example.com/links/016
+[#tag13, #tag14] https://example.com/links/017
+[#tag14, #tag15, #tag16] https://example.com/links/018 OR https://docs.example.com/links/018
+[#tag15, #tag16, #tag17, #tag18] https://example.com/links/019
+[#featured, #tag17, #tag18, #tag19, #tag20] https://example.com/links/020
+[#tag17, #tag18, #tag19, #tag20, #tag21, #tag22] https://example.com/links/021
+[#tag18, #tag19, #tag20, #tag21, #tag22, #tag23, #tag24] https://example.com/links/022
+[#tag19, #tag20, #tag21, #tag22, #tag23, #tag24, #tag25, #tag26] https://example.com/links/023
+[#tag20, #research, #tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28] https://example.com/links/024
+[#tag21, #tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30] https://example.com/links/025
+[#tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32] https://example.com/links/026
+[#tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34] https://example.com/links/027 OR https://docs.example.com/links/027
+[#tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36] https://example.com/links/028
+[#tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36, #tag37, #tag38] https://example.com/links/029
+[#featured, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36, #tag37, #tag38, #tag39, #tag40] https://example.com/links/030
+[#tag27] https://example.com/links/031
+[#tag28, #tag29] https://example.com/links/032
+[#tag29, #tag30, #tag31] https://example.com/links/033
+[#tag30, #tag31, #tag32, #tag33] https://example.com/links/034
+[#tag31, #tag32, #tag33, #tag34, #tag35] https://example.com/links/035
+[#tag32, #research, #tag34, #tag35, #tag36, #tag37] https://example.com/links/036 OR https://docs.example.com/links/036
+[#tag33, #tag34, #tag35, #tag36, #tag37, #tag38, #tag39] https://example.com/links/037
+[#tag34, #tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41] https://example.com/links/038
+[#tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43] https://example.com/links/039
+[#featured, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45] https://example.com/links/040
+[#tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45, #tag46, #tag47] https://example.com/links/041
+[#tag38, #tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45, #tag46, #tag47, #tag48, #tag49] https://example.com/links/042
+[#tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45, #tag46, #tag47, #tag48, #tag49, #tag50, #tag51] https://example.com/links/043
+[#tag40, #tag41, #tag42, #tag43, #tag44, #tag45, #tag46, #tag47, #tag48, #tag49, #tag50, #tag51, #tag52, #tag53] https://example.com/links/044
+[#tag41, #tag42, #tag43, #tag44, #tag45, #tag46, #tag47, #tag48, #tag49, #tag50, #tag51, #tag52, #tag53, #tag54, #tag55] https://example.com/links/045 OR https://docs.example.com/links/045
+[#tag42] https://example.com/links/046
+[#tag43, #tag44] https://example.com/links/047
+[#tag44, #research, #tag46] https://example.com/links/048
+[#tag45, #tag46, #tag47, #tag48] https://example.com/links/049
+[#featured, #tag47, #tag48, #tag49, #tag50] https://example.com/links/050
+[#tag47, #tag48, #tag49, #tag50, #tag51, #tag52] https://example.com/links/051
+[#tag48, #tag49, #tag50, #tag51, #tag52, #tag53, #tag54] https://example.com/links/052
+[#tag49, #tag50, #tag51, #tag52, #tag53, #tag54, #tag55, #tag56] https://example.com/links/053
+[#tag50, #tag51, #tag52, #tag53, #tag54, #tag55, #tag56, #tag57, #tag58] https://example.com/links/054 OR https://docs.example.com/links/054
+[#tag51, #tag52, #tag53, #tag54, #tag55, #tag56, #tag57, #tag58, #tag59, #tag60] https://example.com/links/055
+[#tag52, #tag53, #tag54, #tag55, #tag56, #tag57, #tag58, #tag59, #tag60, #tag01, #tag02] https://example.com/links/056
+[#tag53, #tag54, #tag55, #tag56, #tag57, #tag58, #tag59, #tag60, #tag01, #tag02, #tag03, #tag04] https://example.com/links/057
+[#tag54, #tag55, #tag56, #tag57, #tag58, #tag59, #tag60, #tag01, #tag02, #tag03, #tag04, #tag05, #tag06] https://example.com/links/058
+[#tag55, #tag56, #tag57, #tag58, #tag59, #tag60, #tag01, #tag02, #tag03, #tag04, #tag05, #tag06, #tag07, #tag08] https://example.com/links/059
+[#featured, #research, #tag58, #tag59, #tag60, #tag01, #tag02, #tag03, #tag04, #tag05, #tag06, #tag07, #tag08, #tag09, #tag10] https://example.com/links/060
+[#tag57] https://example.com/links/061
+[#tag58, #tag59] https://example.com/links/062
+[#tag59, #tag60, #tag01] https://example.com/links/063 OR https://docs.example.com/links/063
+[#tag60, #tag01, #tag02, #tag03] https://example.com/links/064
+[#tag01, #tag02, #tag03, #tag04, #tag05] https://example.com/links/065
+[#tag02, #tag03, #tag04, #tag05, #tag06, #tag07] https://example.com/links/066
+[#tag03, #tag04, #tag05, #tag06, #tag07, #tag08, #tag09] https://example.com/links/067
+[#tag04, #tag05, #tag06, #tag07, #tag08, #tag09, #tag10, #tag11] https://example.com/links/068
+[#tag05, #tag06, #tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13] https://example.com/links/069
+[#featured, #tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15] https://example.com/links/070
+[#tag07, #tag08, #tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17] https://example.com/links/071
+[#tag08, #research, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19] https://example.com/links/072 OR https://docs.example.com/links/072
+[#tag09, #tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21] https://example.com/links/073
+[#tag10, #tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21, #tag22, #tag23] https://example.com/links/074
+[#tag11, #tag12, #tag13, #tag14, #tag15, #tag16, #tag17, #tag18, #tag19, #tag20, #tag21, #tag22, #tag23, #tag24, #tag25] https://example.com/links/075
+[#tag12] https://example.com/links/076
+[#tag13, #tag14] https://example.com/links/077
+[#tag14, #tag15, #tag16] https://example.com/links/078
+[#tag15, #tag16, #tag17, #tag18] https://example.com/links/079
+[#featured, #tag17, #tag18, #tag19, #tag20] https://example.com/links/080
+[#tag17, #tag18, #tag19, #tag20, #tag21, #tag22] https://example.com/links/081 OR https://docs.example.com/links/081
+[#tag18, #tag19, #tag20, #tag21, #tag22, #tag23, #tag24] https://example.com/links/082
+[#tag19, #tag20, #tag21, #tag22, #tag23, #tag24, #tag25, #tag26] https://example.com/links/083
+[#tag20, #research, #tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28] https://example.com/links/084
+[#tag21, #tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30] https://example.com/links/085
+[#tag22, #tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32] https://example.com/links/086
+[#tag23, #tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34] https://example.com/links/087
+[#tag24, #tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36] https://example.com/links/088
+[#tag25, #tag26, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36, #tag37, #tag38] https://example.com/links/089
+[#featured, #tag27, #tag28, #tag29, #tag30, #tag31, #tag32, #tag33, #tag34, #tag35, #tag36, #tag37, #tag38, #tag39, #tag40] https://example.com/links/090 OR https://docs.example.com/links/090
+[#tag27] https://example.com/links/091
+[#tag28, #tag29] https://example.com/links/092
+[#tag29, #tag30, #tag31] https://example.com/links/093
+[#tag30, #tag31, #tag32, #tag33] https://example.com/links/094
+[#tag31, #tag32, #tag33, #tag34, #tag35] https://example.com/links/095
+[#tag32, #research, #tag34, #tag35, #tag36, #tag37] https://example.com/links/096
+[#tag33, #tag34, #tag35, #tag36, #tag37, #tag38, #tag39] https://example.com/links/097
+[#tag34, #tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41] https://example.com/links/098
+[#tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43] https://example.com/links/099 OR https://docs.example.com/links/099
+[#featured, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45] https://example.com/links/100
