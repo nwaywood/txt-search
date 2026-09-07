@@ -98,3 +98,8 @@
 [#tag34, #tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41] https://example.com/links/098
 [#tag35, #tag36, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43] https://example.com/links/099 OR https://docs.example.com/links/099
 [#featured, #tag37, #tag38, #tag39, #tag40, #tag41, #tag42, #tag43, #tag44, #tag45] https://example.com/links/100
+[#invalid tags] https://example.com/malformed-tag
+[] https://example.com/no-tags
+[#unsupported-scheme] mailto:hello@example.com
+[#invalid-separator] https://example.com/one XOR https://example.com/two
+this row does not follow the required format

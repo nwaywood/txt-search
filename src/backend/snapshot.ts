@@ -1,7 +1,7 @@
 import { FileSystem } from "@effect/platform"
 import { NodeContext } from "@effect/platform-node"
 import { Context, Effect, Layer, Option, Ref } from "effect"
-import { fileURLToPath } from "node:url"
+import { resolve } from "node:path"
 import { parseSource } from "./parser.js"
 import type { ItemsSnapshot } from "./types.js"
 
@@ -15,8 +15,12 @@ export interface FileAccessShape {
 }
 export const FileAccess = Context.GenericTag<FileAccessShape>("txt-search/FileAccess")
 
-// This remains correct for both `src/backend` during development and `dist/server` after build.
-export const inputPath = fileURLToPath(new URL("../../input.txt", import.meta.url))
+export const resolveInputPath = (
+  environment: Readonly<Record<string, string | undefined>> = process.env,
+  currentWorkingDirectory = process.cwd()
+): string => resolve(currentWorkingDirectory, environment.TXT_SEARCH_INPUT_PATH ?? "input.txt")
+
+export const inputPath = resolveInputPath()
 
 export const FileAccessLive: Layer.Layer<FileAccessShape> = Layer.effect(
   FileAccess,

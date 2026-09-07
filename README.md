@@ -25,7 +25,15 @@ Vite proxies `/api` requests from the frontend to the backend.
 
 ## Source data
 
-The application reads the repository-root [`input.txt`](./input.txt). The source path is resolved relative to the application code, not the shell's current directory, so the server can be started from elsewhere without selecting a different input file.
+By default, the application reads `input.txt` from the current working directory. Set `TXT_SEARCH_INPUT_PATH` to use a different file; relative override paths are resolved from that same directory, while absolute paths are used as-is.
+
+```bash
+# Load ./input.txt from the directory in which the server is started
+npm start
+
+# Load a specific source file
+TXT_SEARCH_INPUT_PATH=/path/to/links.txt npm start
+```
 
 Each nonblank line represents one result card:
 
