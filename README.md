@@ -4,6 +4,10 @@ A local-first web application for browsing links stored in a plain-text file. It
 
 Built with React, TypeScript, Node.js, Vite, and Effect.
 
+## Screenshot
+
+![TXT Search interface](docs/txt-search-screenshot.png)
+
 ## Requirements
 
 - A current Node.js LTS release
